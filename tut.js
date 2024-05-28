@@ -1,7 +1,0 @@
-function DoSomething () {
-
-}
-
-const DoSomething = () => {
-    
-}
